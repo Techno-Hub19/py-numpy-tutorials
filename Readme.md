@@ -55,7 +55,7 @@ This notebook is intended for:
 ## How to Use This Repository
 
 # bash
-git clone https://github.com/<your-username>/numpy-practice.git
-cd numpy-practice
-pip install -r requirements.txt
-jupyter notebook
+- git clone https://github.com/<your-username>/numpy-practice.git
+- cd numpy-practice
+- pip install -r requirements.txt
+- jupyter notebook
